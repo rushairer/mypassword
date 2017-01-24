@@ -17,7 +17,13 @@ Only you know your master password, so only you can access your information in y
 ## License
 mypassword is provided under the MIT license. See LICENSE file for details.
 
-
+## Changelog
+2017-01-24
+  v0.2.0 add remove password; show all password; change PWD; check PWD;
+  !ATTENTION!: update v0.1.0 to v0.2.0, you need add the postfix ".pwd" to your password file.
+  
+  
+  
 -------
 
 # mypassword
@@ -41,4 +47,7 @@ openssl
 ## 许可协议
 mypassword 使用 MIT 许可协议，详情见 LICENSE 文件。
 
-
+## 更新日志
+2017-01-24
+  v0.2.0 增加删除密码; 显示全部密码; 修改主密码; 检查主密码;
+  !注意!: 从 v0.1.0 升级到 v0.2.0,  需要给之前的密码文件添加后缀".pwd"。
